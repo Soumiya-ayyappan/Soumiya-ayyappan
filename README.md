@@ -8,9 +8,13 @@
 
 
 ✏️Skills
+
 💻Programming Languages: C, Python
-🖨️Machine Learning: Scikit-learn, keras
+
+<!--🖨️Machine Learning: Scikit-learn, keras -->
+
 💻Deep Learning: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
+
 💻Data Visualization: Matplotlib, Seaborn, Plotly, MS Excel 
 <!---
 Soumiya-ayyappan/Soumiya-ayyappan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
